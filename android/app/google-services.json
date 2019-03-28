@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512104290050",
+    "firebase_url": "https://flutterfb-1d9dd.firebaseio.com",
+    "project_id": "flutterfb-1d9dd",
+    "storage_bucket": "flutterfb-1d9dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512104290050:android:586b2d4da69e9cfa",
+        "android_client_info": {
+          "package_name": "com.example.lab01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512104290050-j65ihjeu8e41dr51hlpo0jpreesbn8ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5rFIPgo3almALoru5I9EYqtH49DH568"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
